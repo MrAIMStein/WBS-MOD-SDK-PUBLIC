@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34947eea9dcaf9c4bbe3665e2a1e985a, type: 3}
+  m_Name: Build
+  m_EditorClassIdentifier: 
+  Info:
+    UUID: 382ef74c-96a2-4dc7-8d21-96807b03cce1
+    KeyName: WBSExampleUI
+    Name: "\u754C\u9762\u793A\u4F8B"
+    Version: 1.0.0
+    Author: "WBS SDK \u793A\u4F8B"
+    Description: 
+    Dependencies: []
+    MinGameVersion: 
+    IconPath: 
+    RequiredModApiVersion: 2.0.0
+  Mode: 1
+  AuthoringKind: 3
+  GameExecutablePath: 
+  DebugBuild: 0
+  SourceRoot: Assets/Mod/WBSExampleUI
+  OutputRoot: Build/Mods
+  ResourceEntries:
+  - {fileID: 2196544791804599889, guid: 107003126914150418feaa659d8f420d, type: 3}
+  - {fileID: 5020378314883616536, guid: 1a048978ff1d87549a1c0b9e2762782f, type: 3}
+  CharacterRecipes: []
+  ModelPrefabs: []
+  AdditionalAssemblyNames: []
+  ExternalDlls: []
+  DataSourceDirectory: Assets/Mod/WBSExampleUI/data
+  IconSourcePath: 

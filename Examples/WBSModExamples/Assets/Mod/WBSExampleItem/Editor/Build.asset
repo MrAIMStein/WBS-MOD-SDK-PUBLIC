@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34947eea9dcaf9c4bbe3665e2a1e985a, type: 3}
+  m_Name: Build
+  m_EditorClassIdentifier: 
+  Info:
+    UUID: ffb1e715-cc15-47f2-9f84-240d4cf68134
+    KeyName: WBSExampleItem
+    Name: "\u7269\u54C1\u793A\u4F8B\uFF1A\u8054\u7F51\u8BA1\u6570\u5668"
+    Version: 1.0.0
+    Author: "WBS SDK \u793A\u4F8B"
+    Description: 
+    Dependencies: []
+    MinGameVersion: 
+    IconPath: 
+    RequiredModApiVersion: 1.0.0
+  Mode: 1
+  AuthoringKind: 2
+  GameExecutablePath: 
+  DebugBuild: 0
+  SourceRoot: Assets/Mod/WBSExampleItem
+  OutputRoot: Build/Mods
+  ResourceEntries:
+  - {fileID: 11400000, guid: c9896ee73a27d8748b6e7fd6a0ea78d9, type: 2}
+  - {fileID: 3278573424232441410, guid: 4679a410e1ed19d4d9f1abcf571533da, type: 3}
+  - {fileID: 1842042888611225513, guid: 0b5a3cc06bc14194d8c0503342a96ff3, type: 3}
+  - {fileID: 6133439698867595177, guid: ef6fbc6fe5a703947a9f54b0a008e614, type: 3}
+  - {fileID: 6614733899406777479, guid: e688fa9527f96fb47aad82bdc484a741, type: 3}
+  - {fileID: 11400000, guid: a350ac55435c225459683a4740599dae, type: 2}
+  - {fileID: 11400000, guid: e329c7548b903114aa03841ea136986a, type: 2}
+  CharacterRecipes: []
+  ModelPrefabs: []
+  AdditionalAssemblyNames: []
+  ExternalDlls: []
+  DataSourceDirectory: Assets/Mod/WBSExampleItem/data
+  IconSourcePath: 

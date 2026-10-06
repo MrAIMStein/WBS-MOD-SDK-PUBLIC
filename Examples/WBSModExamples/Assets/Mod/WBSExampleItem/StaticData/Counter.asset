@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1028947619, guid: 25023184ad3860c4f918c5f8e2f7e0fc, type: 3}
+  m_Name: Counter
+  m_EditorClassIdentifier: 
+  info:
+    ItemId: Counter
+    ItemShortId: Counter
+    IconPath: 
+    PreferredStorageId: 
+    DisplayName:
+      DefaultLanguage: 40
+      Entries:
+      - Language: 40
+        Text: "\u793A\u4F8B\u8BA1\u6570\u5668"
+      - Language: 10
+        Text: Example Counter
+    Description:
+      DefaultLanguage: 40
+      Entries: []
+    PresentationVariants:
+    - Key: Authorized
+      IconPath: 
+      DisplayName:
+        DefaultLanguage: 40
+        Entries:
+        - Language: 40
+          Text: "\u8BA1\u6570\u5668\uFF1A\u5DF2\u4F7F\u7528 {0} \u6B21\uFF0C\u79C1\u5BC6\u6570\u5B57
+            {1}"
+        - Language: 10
+          Text: 'Counter: {0} uses, private number {1}'
+      Description:
+        DefaultLanguage: 40
+        Entries:
+        - Language: 40
+          Text: "\u53EA\u6709\u7269\u54C1\u6301\u6709\u8005\u80FD\u770B\u5230\u79C1\u5BC6\u6570\u5B57
+            {1}\u3002"
+        - Language: 10
+          Text: Only the owner sees private number {1}.
+    SpecificationLocalizations: []
+    Ex1: 0
+    Ex2: 0
+    Ex3: 0
+    Ex4: 
