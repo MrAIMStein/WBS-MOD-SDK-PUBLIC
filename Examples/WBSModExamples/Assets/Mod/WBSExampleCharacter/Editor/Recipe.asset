@@ -831,11 +831,11 @@ MonoBehaviour:
     |WBS.Client.Logic.Gameplay.Character.MultiPlayCharacterBaseScript
 
     |WBS.Client.Logic.Gameplay.Character.SyncRagdoll'
-  LastGeneratedUtc: 2026-10-06T08:28:21.0708866Z
+  LastGeneratedUtc: 2026-10-07T05:42:32.8913035Z
   LastSourceGuid: 4b2f9811b5991f24ca8a5d67fa8d8e5d
   LastRecipeGuid: 974b5f735762111478fcfdaad0075451
-  LastSdkVersion: 2.0.0
-  LastTemplateContentHash: 4989644725677691ce122d6f1e06deb1
+  LastSdkVersion: 2.1.0
+  LastTemplateContentHash: 55d32d548822929db6a1bd3ce1a9988f
   LastOutputFingerprint: 88a5b65a4e75a7855ad1a91d2bad28c5e4c5043f4ff54eb555d3726cd8f5eb8d
   LastOutputFingerprintSnapshot: "{\"SchemaVersion\":1,\"Fingerprint\":\"88a5b65a4e75a7855ad1a91d2bad28c5e4c5043f4ff54eb555d3726cd8f5eb8d\",\"Entries\":[{\"NodePath\":\"\",\"NodeOccurrence\":0,\"ComponentType\":\"\",\"ComponentIndex\":-1,\"PropertyPath\":\"$node\",\"Value\":\"m3|True|0|Player|0\",\"RecordText\":\"|m3|True|0|Player|0\\n\"},{\"NodePath\":\"\",\"NodeOccurrence\":0,\"ComponentType\":\"UnityEngine.Transform\",\"ComponentIndex\":0,\"PropertyPath\":\"$component\",\"Value\":\"UnityEngine.Transform\",\"RecordText\":\"UnityEngine.Transform\\n\"},{\"NodePath\":\"\",\"NodeOccurrence\":0,\"ComponentType\":\"UnityEngine.Transform\",\"ComponentIndex\":0,\"PropertyPath\":\"m_LocalRotation\",\"Value\":\"(0,
     0, 0, 1)\",\"RecordText\":\"m_LocalRotation=(0, 0, 0, 1)\\n\"},{\"NodePath\":\"\",\"NodeOccurrence\":0,\"ComponentType\":\"UnityEngine.Transform\",\"ComponentIndex\":0,\"PropertyPath\":\"m_LocalRotation.x\",\"Value\":\"0\",\"RecordText\":\"m_LocalRotation.x=0\\n\"},{\"NodePath\":\"\",\"NodeOccurrence\":0,\"ComponentType\":\"UnityEngine.Transform\",\"ComponentIndex\":0,\"PropertyPath\":\"m_LocalRotation.y\",\"Value\":\"0\",\"RecordText\":\"m_LocalRotation.y=0\\n\"},{\"NodePath\":\"\",\"NodeOccurrence\":0,\"ComponentType\":\"UnityEngine.Transform\",\"ComponentIndex\":0,\"PropertyPath\":\"m_LocalRotation.z\",\"Value\":\"0\",\"RecordText\":\"m_LocalRotation.z=0\\n\"},{\"NodePath\":\"\",\"NodeOccurrence\":0,\"ComponentType\":\"UnityEngine.Transform\",\"ComponentIndex\":0,\"PropertyPath\":\"m_LocalRotation.w\",\"Value\":\"1\",\"RecordText\":\"m_LocalRotation.w=1\\n\"},{\"NodePath\":\"\",\"NodeOccurrence\":0,\"ComponentType\":\"UnityEngine.Transform\",\"ComponentIndex\":0,\"PropertyPath\":\"m_LocalPosition\",\"Value\":\"(0,

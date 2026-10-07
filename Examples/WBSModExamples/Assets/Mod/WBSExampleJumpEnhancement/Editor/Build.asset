@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34947eea9dcaf9c4bbe3665e2a1e985a, type: 3}
+  m_Name: Build
+  m_EditorClassIdentifier: 
+  Info:
+    UUID: ef8b4c5a-b63c-4b76-9962-41c31a245b48
+    KeyName: WBSExampleJumpEnhancement
+    Name: "\u8DF3\u8DC3\u589E\u5F3A\u793A\u4F8B"
+    Version: 1.0.0
+    Author: "WBS SDK \u793A\u4F8B"
+    Description: "\u4F7F\u7528\u53D7\u7BA1\u7406\u7684 Harmony \u540C\u65F6\u6F14\u793A\u8DF3\u8DC3\u9AD8\u5EA6\u4E0E\u591A\u6BB5\u8DF3\u8DC3\u3002"
+    Dependencies: []
+    MinGameVersion: 
+    IconPath: 
+    RequiredModApiVersion: 2.1.0
+  Mode: 1
+  AuthoringKind: 1
+  GameExecutablePath: 
+  DebugBuild: 0
+  SourceRoot: Assets/Mod/WBSExampleJumpEnhancement
+  OutputRoot: Build/Mods
+  ResourceEntries: []
+  CharacterRecipes: []
+  ModelPrefabs: []
+  AdditionalAssemblyNames: []
+  ExternalDlls: []
+  DataSourceDirectory: 
+  IconSourcePath: 

@@ -323,7 +323,7 @@ namespace WBS.Client.Editor.ModSDK
                 if (PrefabUtility.SaveAsPrefabAsset(hud, hudPath) == null) throw new IOException("覆盖层 Prefab 保存失败。");
             }
             finally { PrefabUtility.UnloadPrefabContents(hud); }
-            profile.Info.RequiredModApiVersion = "2.0.0";
+            profile.Info.RequiredModApiVersion = "2.1.0";
             EditorUtility.SetDirty(profile);
             AssetDatabase.SaveAssetIfDirty(profile);
         }

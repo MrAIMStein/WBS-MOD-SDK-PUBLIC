@@ -48,7 +48,7 @@ namespace WBS.Client.Editor.ModSDK
     {
         public const string PackageName = "com.wbs.mod-sdk";
         public const string EditorPackageName = "com.wbs.mod-editor";
-        public const string SourceVersion = "2.0.0";
+        public const string SourceVersion = "2.1.0";
         public const string RequiredModApiVersion = WBS.Client.Common.Mod.ModApiProtocol.CurrentVersion;
         public const string UnityVersion = "2022.3.62f3";
         public const string UnityRevision = "96770f904ca7";

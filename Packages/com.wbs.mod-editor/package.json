@@ -1,6 +1,6 @@
 {
   "name": "com.wbs.mod-editor",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "displayName": "WBS 模组制作工具",
   "description": "智斗模拟器模组编辑器工具源码。制作模组请安装 Release 提供的完整 com.wbs.mod-sdk；此源码目录不包含运行时 DLL 和公共资源。",
   "license": "MIT",

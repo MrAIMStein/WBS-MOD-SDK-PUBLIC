@@ -1,0 +1,16 @@
+{
+  "name": "WBSExampleJumpEnhancementModEntry",
+  "rootNamespace": "WBS.Client.Mod.WBSExampleJumpEnhancement",
+  "references": ["Unity.InputSystem"],
+  "autoReferenced": true,
+  "overrideReferences": true,
+  "defineConstraints": [],
+  "precompiledReferences": [
+    "0Harmony.dll",
+    "WBS.Client.Common.InputControl.dll",
+    "WBS.Client.Common.Mod.dll",
+    "WBS.Client.Logic.Gameplay.dll",
+    "WBS.Client.Logic.ModSupport.dll"
+  ],
+  "noEngineReferences": false
+}
